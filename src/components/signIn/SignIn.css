@@ -1,0 +1,97 @@
+body {
+  background-color: #E7F6F2;
+  margin: 0px;
+}
+
+h1 {
+  margin: auto;
+}
+
+.loginCredentials {
+  background-color: white;
+  margin: 12% auto;
+  box-shadow: 5px 8px 18px #2C3333;
+  position: absolute;
+  width: 270px;
+  height: 300px;
+  left: 0rem;
+  right: 0rem;
+  padding: 10px;
+
+}
+
+#inputForm {
+  margin: 30px 0 0 30px;
+  position: relative;
+}
+
+.loginCredentials .redirectLink {
+  margin: 25px 0 0 38px
+}
+
+.loginCredentials h3 {
+  margin: 35px auto 20px 55px;
+  text-transform: uppercase;
+}
+
+.loginCredentials a:link {
+  text-decoration: underline;
+}
+.loginCredentials .redirectLink a:hover{
+  color: #008CBA; 
+}
+.redirectLink a:link{
+  color: black; 
+}
+.redirectLink a:visited{
+  color: black; 
+}
+
+.redirectLink {
+  margin-top: 25px;
+}
+
+h6 {
+  margin-left: 6px;
+}
+
+.inputData {
+  background-color: white;
+  margin: 2px 0;
+  width: 200px;
+}
+
+#errorField {
+  color: red;
+  font-size: 10px;
+  margin: 0 0 0 51px;
+}
+
+#loginbtn {
+  margin: 15px 0 0 5px;
+  width: 200px;
+  height: 30px;
+  background-color: #008CBA;
+  border: none;
+  color: white;
+}
+
+#loginbtn:hover{
+  border: 2px solid black
+}
+
+input {
+  padding: 8px 10px;
+  width: 20rem;
+  background-color: white;
+  margin: 0.5rem auto;
+  color: black;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #E7F6F2;
+}
+
+::placeholder {
+  color: #2C3333;
+  opacity: 1;
+}

@@ -1,0 +1,81 @@
+/* body {
+  background-color: #395b64;
+  margin: 0px;
+}
+h1{
+    margin: auto;
+}
+
+.topContainer{
+    color:#e7f6f2;
+    background-color: #2c3333AA;
+    padding: 1rem ;
+}
+.divBox .loginCredentials h5{
+    margin: 1rem 0 0 0;
+}
+
+#signInBox {
+  background-color: #2c3333;
+  height: 25rem;
+  width: 20rem;
+  margin: 5rem auto;
+  position: relative;
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+a:link{
+    color: #A5C9CA;
+}
+
+a:visited{
+    color: #749394;
+}
+
+#signInPerson {
+    background-color: #2c3333;
+    height: 10rem;
+    width: 10rem;
+    margin: 2rem 0 1.5rem 5rem;
+    border-radius: 50%;
+  }
+  
+  
+.loginCredentials{
+    position:absolute;
+    background-color: #2c3333;
+    height:9.5rem;
+    width: 16rem;
+    left: 0rem;
+    right: 0rem;
+    margin: 0 auto;
+    padding: 0 0 0 3.5rem ;
+
+}
+
+input {
+    padding: 8px 10px;
+    background-color: #2c3333;
+    margin: 0.5rem auto;
+    color: #e7f6f2;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #e7f6f222;
+  }
+
+
+ .inputData {
+  background-color: #2c3333;
+}
+
+#submitbtn{display:none;}
+/*
+.inputPass {
+  position: absolute;
+  background-color: #2c3333;
+  left: 4rem;
+  right: 4rem;
+  margin: 95% auto;
+} */
+

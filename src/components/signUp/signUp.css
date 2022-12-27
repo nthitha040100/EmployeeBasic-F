@@ -1,0 +1,38 @@
+#signUpBox {
+  background-color: white;
+  color: #2C3333;
+  height: 35rem;
+  width: 25rem;
+  margin: 5rem auto 2.5rem auto;
+  position: relative;
+  box-shadow: 5px 8px 18px #2C3333;
+  padding: 1rem;
+  text-align: center;
+}
+
+#signUpBox h2 {
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+form {
+  margin: 2rem auto 0 auto;
+}
+
+#signUpBtn {
+  margin: 22px 0 0 18px;
+  width: 20rem;
+  height: 30px;
+  background-color: #008CBA;
+  border: none;
+}
+
+#signUpBtn:hover{
+  border: 2px solid black
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+  margin: 0;
+}

@@ -1,0 +1,36 @@
+div#UpdateBox{
+    background-color: white;
+    color: #2C3333;
+    height: 32rem;
+    width: 25rem;
+    margin: 5rem auto 2.5rem auto;
+    box-shadow: 5px 8px 18px #2C3333;
+    position: relative;
+    padding: 1rem;
+    text-align: center;
+}
+
+div#UpdateBox h2{
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+
+#successMsg{
+    text-align: center;
+}
+
+#updateBtn {
+    margin-top: 30px;
+    margin-left: 18px;
+    width: 20rem;
+    height: 30px;
+    background-color: #008CBA;
+    border: none;
+}
+
+#updateBtn:hover{
+    border: 2px solid black
+}
+
+
+  

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+
+div#welcomeContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div#welcomeContainer .center{
+    position: absolute;
+    font-size: 90px;
+    top: 30%;
+}
+
+.center {
+    font-family: 'Ms Madi', cursive;
+  }
+
+

@@ -1,0 +1,62 @@
+ul.list {
+
+  text-align: center;
+  display: inline-block;
+  text-align: center;
+  list-style: none;
+  margin: 100px 0 30px 345px;
+}
+
+li {
+  margin: 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.list-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.topNav{
+  background-color: #008CBA55;
+  padding: 1rem;
+  overflow: hidden;
+  height: 25px;
+} 
+
+.topNav link {
+  float: left;
+  text-align: center;
+  margin-left: 0;
+
+}
+
+.topNav a{
+  margin-top: 30px;
+  margin: 10px;
+}
+
+.topNav-right{
+  float: right;
+}
+
+.topNav a:link {
+  text-decoration: none;
+  color: black;
+}
+
+.topNav a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.topNav a:hover {
+  color: #e7f6f2;
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: underline;
+}

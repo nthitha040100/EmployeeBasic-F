@@ -1,0 +1,21 @@
+table{
+    width: 100%
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    align-items: center;
+    text-align: center;
+
+}
+
+.getAllTable{
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+}
+.topContainer{
+    color:#e7f6f2;
+    background-color: #2c3333AA;
+    padding: 1rem ;
+}

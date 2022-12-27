@@ -1,0 +1,37 @@
+.topContainer{
+    color:#e7f6f2;
+    background-color: #2c3333AA;
+    padding: 1rem ;
+}
+
+#err{
+    color: red;
+    font-size: 10px;
+    text-align: center;
+}
+#mainText{
+    margin: 30px 0;
+    text-align: center;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#btn{
+    width: 60px;
+    height: 30px;
+    border: none;
+    background-color: #008CBA;
+    border: none;
+}
+
+#btn:hover{
+    border: 2px solid black;
+}
+
+button{
+    margin-right: 10px;
+
+}
